@@ -99,7 +99,7 @@ class Ui_Main(object):
         _translate = QtCore.QCoreApplication.translate
         Main.setWindowTitle(_translate("Main", "Game Bầu Cua Online - New Room - PL1"))
         self.title.setText(_translate("Main", "TẠO PHÒNG MỚI"))
-        self.credit.setText(_translate("Main", "Rất vui được gặp bạn ."))
+        self.credit.setText(_translate("Main", "Rất vui được gặp bạn."))
         self.description.setText(_translate("Main", "Bạn muốn làm nhà cái hay người chơi?"))
         self.host.setText(_translate("Main", "Nhà cái"))
         self.player.setText(_translate("Main", "Người chơi"))
