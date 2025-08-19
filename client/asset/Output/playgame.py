@@ -126,7 +126,7 @@ class Ui_Main(object):
         _translate = QtCore.QCoreApplication.translate
         Main.setWindowTitle(_translate("Main", "Game Bầu Cua Online - In Game"))
         self.status.setText(_translate("Main", "Đang sốc đĩa..."))
-        self.credit.setText(_translate("Main", "Rất vui được gặp bạn."))
+        self.credit.setText(_translate("Main", "Game made by MHP. You can buy me a cup of coffee through https://www.buymeacoffee.com/py.hacker.hieu, thank you very much."))
         self.currentbalance.setText(_translate("Main", "Tiền còn lại: 0 MHPoint"))
         self.playagain.setText(_translate("Main", "Chơi lại"))
         self.exit.setText(_translate("Main", "X"))
